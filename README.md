@@ -97,6 +97,18 @@ mysql -u root -p
 CREATE DATABASE quiz_app;
 ```
 
+### .env fájl hozzáadása
+```.env
+SECRET_KEY=TODO
+JWT_SECRET_KEY=TODO
+MYSQL_USER=root
+MYSQL_PASSWORD=TODO
+MYSQL_DB=quiz_app
+MYSQL_HOST=localhost
+MYSQL_PORT=3306
+SQLALCHEMY_DATABASE_URI=TODO
+```
+
 ### Alkalmazás indítása
 ```sh
 python3 app.py
