@@ -1,0 +1,382 @@
+[
+    {
+        "username": "alice",
+        "results": [
+        { "topic": "History", "difficulty": "easy", "score": 3, "multiplier": 1 },
+        { "topic": "Physics", "difficulty": "medium", "score": 4, "multiplier": 2 },
+        { "topic": "Art & Design", "difficulty": "hard", "score": 5, "multiplier": 3 },
+        { "topic": "Computer Science", "difficulty": "hard", "score": 3, "multiplier": 3 },
+        { "topic": "Philosophy", "difficulty": "medium", "score": 1, "multiplier": 2 },
+        { "topic": "Mathematics", "difficulty": "hard", "score": 5, "multiplier": 3 }
+        ]
+    },
+    {
+        "username": "bob",
+        "results": [
+        { "topic": "Biology", "difficulty": "easy", "score": 4, "multiplier": 1 },
+        { "topic": "Music", "difficulty": "medium", "score": 2, "multiplier": 2 },
+        { "topic": "General Knowledge", "difficulty": "medium", "score": 3, "multiplier": 2 }
+        ]
+    },
+    {
+        "username": "charlie",
+        "results": [
+        { "topic": "Computer Science", "difficulty": "hard", "score": 2, "multiplier": 3 },
+        { "topic": "Philosophy", "difficulty": "medium", "score": 4, "multiplier": 2 },
+        { "topic": "Mathematics", "difficulty": "easy", "score": 5, "multiplier": 1 }
+        ]
+    },
+    {
+        "username": "picklePenguin",
+        "results": [
+        { "topic": "Mythology", "difficulty": "hard", "score": 3, "multiplier": 3 },
+        { "topic": "Economics", "difficulty": "medium", "score": 4, "multiplier": 2 },
+        { "topic": "Art & Design", "difficulty": "easy", "score": 2, "multiplier": 1 }
+        ]
+    },
+    {
+        "username": "spaghettiWizard",
+        "results": [
+        { "topic": "Philosophy", "difficulty": "medium", "score": 3, "multiplier": 2 },
+        { "topic": "Music", "difficulty": "easy", "score": 4, "multiplier": 1 },
+        { "topic": "Space & Astronomy", "difficulty": "hard", "score": 5, "multiplier": 3 }
+        ]
+    },
+    {
+        "username": "quantumBanana",
+        "results": [
+        { "topic": "Physics", "difficulty": "medium", "score": 2, "multiplier": 2 },
+        { "topic": "Computer Science", "difficulty": "hard", "score": 5, "multiplier": 3 }
+        ]
+    },
+    {
+        "username": "toasterNinja",
+        "results": [
+        { "topic": "History", "difficulty": "easy", "score": 5, "multiplier": 1 },
+        { "topic": "Space & Astronomy", "difficulty": "medium", "score": 3, "multiplier": 2 },
+        { "topic": "Mathematics", "difficulty": "hard", "score": 4, "multiplier": 3 }
+        ]
+    },
+    {
+        "username": "sockOverlord",
+        "results": [
+        { "topic": "General Knowledge", "difficulty": "easy", "score": 2, "multiplier": 1 },
+        { "topic": "Literature", "difficulty": "medium", "score": 4, "multiplier": 2 },
+        { "topic": "Economics", "difficulty": "hard", "score": 3, "multiplier": 3 }
+        ]
+    },
+    {
+        "username": "cactusJazz",
+        "results": [
+        { "topic": "Biology", "difficulty": "hard", "score": 4, "multiplier": 3 },
+        { "topic": "Geography", "difficulty": "medium", "score": 2, "multiplier": 2 },
+        { "topic": "Music", "difficulty": "easy", "score": 3, "multiplier": 1 }
+        ]
+    },
+    {
+        "username": "llamaDrama",
+        "results": [
+        { "topic": "Computer Science", "difficulty": "easy", "score": 4, "multiplier": 1 },
+        { "topic": "Space & Astronomy", "difficulty": "hard", "score": 3, "multiplier": 3 },
+        { "topic": "Philosophy", "difficulty": "medium", "score": 5, "multiplier": 2 }
+        ]
+    },
+    {
+        "username": "waffleWhale",
+        "results": [
+        { "topic": "Economics", "difficulty": "medium", "score": 3, "multiplier": 2 },
+        { "topic": "Philosophy", "difficulty": "hard", "score": 4, "multiplier": 3 },
+        { "topic": "Music", "difficulty": "easy", "score": 5, "multiplier": 1 }
+        ]
+    },
+    {
+        "username": "burritoSamurai",
+        "results": [
+        { "topic": "Mathematics", "difficulty": "easy", "score": 4, "multiplier": 1 },
+        { "topic": "Literature", "difficulty": "medium", "score": 2, "multiplier": 2 },
+        { "topic": "Mythology", "difficulty": "hard", "score": 3, "multiplier": 3 }
+        ]
+    },
+    {
+        "username": "grumpyToast",
+        "results": [
+        { "topic": "Computer Science", "difficulty": "hard", "score": 5, "multiplier": 3 },
+        { "topic": "Biology", "difficulty": "medium", "score": 3, "multiplier": 2 }
+        ]
+    },
+    {
+        "username": "noodleNebula",
+        "results": [
+        { "topic": "Space & Astronomy", "difficulty": "easy", "score": 4, "multiplier": 1 },
+        { "topic": "Physics", "difficulty": "medium", "score": 5, "multiplier": 2 },
+        { "topic": "General Knowledge", "difficulty": "hard", "score": 3, "multiplier": 3 }
+        ]
+    },
+    {
+        "username": "moonGoose",
+        "results": [
+        { "topic": "Art & Design", "difficulty": "easy", "score": 2, "multiplier": 1 },
+        { "topic": "History", "difficulty": "medium", "score": 4, "multiplier": 2 },
+        { "topic": "Geography", "difficulty": "hard", "score": 5, "multiplier": 3 }
+        ]
+    },
+    {
+        "username": "chaoticKoala",
+        "results": [
+        { "topic": "Mythology", "difficulty": "medium", "score": 3, "multiplier": 2 },
+        { "topic": "Economics", "difficulty": "hard", "score": 2, "multiplier": 3 },
+        { "topic": "Physics", "difficulty": "easy", "score": 4, "multiplier": 1 }
+        ]
+    },
+    {
+        "username": "tacoViking",
+        "results": [
+        { "topic": "History", "difficulty": "hard", "score": 5, "multiplier": 3 },
+        { "topic": "Music", "difficulty": "medium", "score": 2, "multiplier": 2 },
+        { "topic": "Literature", "difficulty": "easy", "score": 3, "multiplier": 1 }
+        ]
+    },
+    {
+        "username": "binaryBeard",
+        "results": [
+        { "topic": "Computer Science", "difficulty": "medium", "score": 4, "multiplier": 2 },
+        { "topic": "Mathematics", "difficulty": "hard", "score": 5, "multiplier": 3 }
+        ]
+    },
+    {
+        "username": "pineappleKing",
+        "results": [
+        { "topic": "Geography", "difficulty": "easy", "score": 3, "multiplier": 1 },
+        { "topic": "Biology", "difficulty": "medium", "score": 2, "multiplier": 2 },
+        { "topic": "Philosophy", "difficulty": "hard", "score": 4, "multiplier": 3 }
+        ]
+    },
+    {
+        "username": "hamsterFusion",
+        "results": [
+        { "topic": "General Knowledge", "difficulty": "easy", "score": 5, "multiplier": 1 },
+        { "topic": "Art & Design", "difficulty": "medium", "score": 3, "multiplier": 2 },
+        { "topic": "Space & Astronomy", "difficulty": "hard", "score": 4, "multiplier": 3 }
+        ]
+    },
+    {
+        "username": "sassyDragon",
+        "results": [
+        { "topic": "Mythology", "difficulty": "medium", "score": 3, "multiplier": 2 },
+        { "topic": "Music", "difficulty": "easy", "score": 4, "multiplier": 1 },
+        { "topic": "Art & Design", "difficulty": "hard", "score": 2, "multiplier": 3 }
+        ]
+    },
+    {
+        "username": "crayonCaptain",
+        "results": [
+        { "topic": "Art & Design", "difficulty": "easy", "score": 5, "multiplier": 1 },
+        { "topic": "General Knowledge", "difficulty": "medium", "score": 3, "multiplier": 2 }
+        ]
+    },
+    {
+        "username": "broccoliBard",
+        "results": [
+        { "topic": "Biology", "difficulty": "hard", "score": 4, "multiplier": 3 },
+        { "topic": "Literature", "difficulty": "easy", "score": 2, "multiplier": 1 },
+        { "topic": "Philosophy", "difficulty": "medium", "score": 3, "multiplier": 2 }
+        ]
+    },
+    {
+        "username": "yeetWizard",
+        "results": [
+        { "topic": "History", "difficulty": "easy", "score": 5, "multiplier": 1 },
+        { "topic": "Computer Science", "difficulty": "medium", "score": 4, "multiplier": 2 },
+        { "topic": "Physics", "difficulty": "hard", "score": 3, "multiplier": 3 }
+        ]
+    },
+    {
+        "username": "jellybeanSniper",
+        "results": [
+        { "topic": "Music", "difficulty": "medium", "score": 2, "multiplier": 2 },
+        { "topic": "Philosophy", "difficulty": "hard", "score": 5, "multiplier": 3 }
+        ]
+    },
+    {
+        "username": "pajamaPirate",
+        "results": [
+        { "topic": "Space & Astronomy", "difficulty": "easy", "score": 3, "multiplier": 1 },
+        { "topic": "Economics", "difficulty": "medium", "score": 2, "multiplier": 2 },
+        { "topic": "Mathematics", "difficulty": "hard", "score": 4, "multiplier": 3 }
+        ]
+    },
+    {
+        "username": "plumbusPilot",
+        "results": [
+        { "topic": "Computer Science", "difficulty": "easy", "score": 5, "multiplier": 1 },
+        { "topic": "Art & Design", "difficulty": "medium", "score": 3, "multiplier": 2 }
+        ]
+    },
+    {
+        "username": "sneezyGoblin",
+        "results": [
+        { "topic": "Biology", "difficulty": "medium", "score": 3, "multiplier": 2 },
+        { "topic": "Geography", "difficulty": "hard", "score": 2, "multiplier": 3 },
+        { "topic": "Music", "difficulty": "easy", "score": 4, "multiplier": 1 }
+        ]
+    },
+    {
+        "username": "octopusOpera",
+        "results": [
+        { "topic": "History", "difficulty": "hard", "score": 5, "multiplier": 3 },
+        { "topic": "Literature", "difficulty": "medium", "score": 3, "multiplier": 2 }
+        ]
+    },
+    {
+        "username": "bananaFrenzy",
+        "results": [
+        { "topic": "Mathematics", "difficulty": "easy", "score": 4, "multiplier": 1 },
+        { "topic": "Philosophy", "difficulty": "medium", "score": 2, "multiplier": 2 },
+        { "topic": "Space & Astronomy", "difficulty": "hard", "score": 3, "multiplier": 3 }
+        ]
+    },
+    {
+        "username": "marshmallowDuke",
+        "results": [
+        { "topic": "Art & Design", "difficulty": "easy", "score": 4, "multiplier": 1 },
+        { "topic": "General Knowledge", "difficulty": "medium", "score": 3, "multiplier": 2 }
+        ]
+    },
+    {
+        "username": "glitchHamster",
+        "results": [
+        { "topic": "Computer Science", "difficulty": "hard", "score": 5, "multiplier": 3 },
+        { "topic": "Mathematics", "difficulty": "medium", "score": 2, "multiplier": 2 }
+        ]
+    },
+    {
+        "username": "donutKnight",
+        "results": [
+        { "topic": "History", "difficulty": "medium", "score": 4, "multiplier": 2 },
+        { "topic": "Philosophy", "difficulty": "easy", "score": 5, "multiplier": 1 }
+        ]
+    },
+    {
+        "username": "zebraZeppelin",
+        "results": [
+        { "topic": "Music", "difficulty": "medium", "score": 3, "multiplier": 2 },
+        { "topic": "Space & Astronomy", "difficulty": "hard", "score": 4, "multiplier": 3 }
+        ]
+    },
+    {
+        "username": "lavaMermaid",
+        "results": [
+        { "topic": "Geography", "difficulty": "easy", "score": 3, "multiplier": 1 },
+        { "topic": "Biology", "difficulty": "medium", "score": 2, "multiplier": 2 },
+        { "topic": "Chemistry", "difficulty": "hard", "score": 5, "multiplier": 3 }
+        ]
+    },
+    {
+        "username": "vhsGoblin",
+        "results": [
+        { "topic": "Economics", "difficulty": "medium", "score": 2, "multiplier": 2 },
+        { "topic": "Literature", "difficulty": "hard", "score": 4, "multiplier": 3 }
+        ]
+    },
+    {
+        "username": "operaSloth",
+        "results": [
+        { "topic": "Music", "difficulty": "easy", "score": 5, "multiplier": 1 },
+        { "topic": "Art & Design", "difficulty": "medium", "score": 3, "multiplier": 2 }
+        ]
+    },
+    {
+        "username": "bubbleYeti",
+        "results": [
+        { "topic": "Mythology", "difficulty": "medium", "score": 4, "multiplier": 2 },
+        { "topic": "Computer Science", "difficulty": "hard", "score": 2, "multiplier": 3 }
+        ]
+    },
+    {
+        "username": "snailBaron",
+        "results": [
+        { "topic": "History", "difficulty": "hard", "score": 3, "multiplier": 3 },
+        { "topic": "Geography", "difficulty": "medium", "score": 4, "multiplier": 2 }
+        ]
+    },
+    {
+        "username": "ravioliQueen",
+        "results": [
+        { "topic": "General Knowledge", "difficulty": "easy", "score": 4, "multiplier": 1 },
+        { "topic": "Philosophy", "difficulty": "medium", "score": 5, "multiplier": 2 }
+        ]
+    },
+    {
+        "username": "pigeonOracle",
+        "results": [
+        { "topic": "Philosophy", "difficulty": "hard", "score": 4, "multiplier": 3 },
+        { "topic": "Mythology", "difficulty": "medium", "score": 3, "multiplier": 2 }
+        ]
+    },
+    {
+        "username": "wizardOfWaffles",
+        "results": [
+        { "topic": "Mathematics", "difficulty": "easy", "score": 5, "multiplier": 1 },
+        { "topic": "Physics", "difficulty": "medium", "score": 4, "multiplier": 2 }
+        ]
+    },
+    {
+        "username": "quokkaSparkle",
+        "results": [
+        { "topic": "Art & Design", "difficulty": "medium", "score": 2, "multiplier": 2 },
+        { "topic": "Music", "difficulty": "easy", "score": 4, "multiplier": 1 }
+        ]
+    },
+    {
+        "username": "soupVampire",
+        "results": [
+        { "topic": "Biology", "difficulty": "hard", "score": 3, "multiplier": 3 },
+        { "topic": "General Knowledge", "difficulty": "easy", "score": 5, "multiplier": 1 }
+        ]
+    },
+    {
+        "username": "rainbowCrab",
+        "results": [
+        { "topic": "Computer Science", "difficulty": "medium", "score": 3, "multiplier": 2 },
+        { "topic": "History", "difficulty": "medium", "score": 4, "multiplier": 2 }
+        ]
+    },
+    {
+        "username": "tromboneTiger",
+        "results": [
+        { "topic": "Music", "difficulty": "hard", "score": 5, "multiplier": 3 },
+        { "topic": "Economics", "difficulty": "medium", "score": 2, "multiplier": 2 }
+        ]
+    },
+    {
+        "username": "milkshakeMage",
+        "results": [
+        { "topic": "Chemistry", "difficulty": "easy", "score": 4, "multiplier": 1 },
+        { "topic": "Space & Astronomy", "difficulty": "hard", "score": 3, "multiplier": 3 }
+        ]
+    },
+    {
+        "username": "tofuNinja",
+        "results": [
+            { "topic": "Physics", "difficulty": "hard", "score": 3, "multiplier": 3 },
+            { "topic": "Literature", "difficulty": "easy", "score": 4, "multiplier": 1 },
+            { "topic": "Space & Astronomy", "difficulty": "medium", "score": 0, "multiplier": 2 }
+        ]
+    },
+    {
+        "username": "giraffeJazz",
+        "results": [
+            { "topic": "Mathematics", "difficulty": "easy", "score": 0, "multiplier": 1 },
+            { "topic": "Philosophy", "difficulty": "easy", "score": 4, "multiplier": 1 },
+            { "topic": "Mythology", "difficulty": "medium", "score": 10, "multiplier": 2 }
+        ]
+    },
+    {
+        "username": "nachoSphinx",
+        "results": [
+            { "topic": "Economics", "difficulty": "medium", "score": 6, "multiplier": 2 },
+            { "topic": "Computer Science", "difficulty": "hard", "score": 9, "multiplier": 3 },
+            { "topic": "Mythology", "difficulty": "medium", "score": 2, "multiplier": 2 }
+        ]
+    }
+]

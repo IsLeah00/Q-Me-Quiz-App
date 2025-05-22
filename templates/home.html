@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Q'Me | Quiz</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/home.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/navbar.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/message.css') }}">
+    <script defer src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script defer src="{{ url_for('static', filename='scripts/quiz/quizFlow.js') }}"></script>
+</head>
+<body>
+    {% include 'navbar.html' %}
+    <div class="quiz-container">
+        <div id="start-section">
+            <h2 class="title">Ready. Set. Go!</h2>
+            <div id="form-message" class="form-message" style="display: none;"></div>
+            <form id="start-form">
+                <h3>Choose Difficulty</h3>
+                <select id="difficulty" required>
+                    <option value="">-- Select Difficulty --</option>
+                    <option value="easy">Easy</option>
+                    <option value="medium">Medium</option>
+                    <option value="hard">Hard</option>
+                </select>
+
+                <h3>Choose Topic</h3>
+                <select id="topic" required>
+                    <option value="">-- Select Topic --</option>
+                    {% for topic in topics %}
+                        <option value="{{ topic.topicName }}">{{ topic.topicName }}</option>
+                    {% endfor %}
+                </select>
+
+                <button type="submit" class="start-button">Start Quiz</button>
+            </form>
+        </div>
+
+        <div id="quiz-section" style="display: none;"></div>
+
+        <div id="result-section" style="display: none;">
+            <h2>Your Results</h2>
+            <canvas id="result-chart" width="300" height="300"></canvas>
+            <div id="final-score" class="score-display"></div>
+            <button onclick="location.reload()">Finish</button>
+        </div>
+    </div>
+</body>
+</html>

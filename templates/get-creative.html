@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Q'Me | Get Creative</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/home.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/get-creative.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/navbar.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/message.css') }}">
+    <script defer src="{{ url_for('static', filename='scripts/quiz/createQuestion.js') }}"></script>
+</head>
+<body>
+    {% include 'navbar.html' %}
+    <div class="quiz-container">
+        <h2 class="title">Help us create!</h2>
+        <div id="form-message" class="form-message" style="display: none;"></div>
+        <form id="create-form">
+            <h3>Question</h3>
+            <textarea id="questionText" required placeholder="Enter your question here"></textarea>
+
+            <h3>Difficulty</h3>
+            <select id="difficulty" required>
+                <option value="">-- Select Difficulty --</option>
+                <option value="easy">Easy</option>
+                <option value="medium">Medium</option>
+                <option value="hard">Hard</option>
+            </select>
+
+            <h3>Topics (select between 1 and 4)</h3>
+            <div id="topic-options">
+                {% for topic in topics %}
+                    <label>
+                        <input type="checkbox" name="topics" value="{{ topic.topicName }}">
+                        {{ topic.topicName }}
+                    </label><br>
+                {% endfor %}
+            </div>
+
+            <h3>Answers</h3>
+            <div id="answers-section"></div>
+            <button type="button" id="add-answer">Add Answer</button>
+
+            <button type="submit" class="start-button">Submit Question</button>
+        </form>
+
+        <div id="profanity-warning" style="display: none;">
+            <h3>Profanity detected! Please review:</h3>
+            <p id="censored-question"></p>
+            <ul id="censored-answers"></ul>
+        </div>
+    </div>
+</body>
+</html>

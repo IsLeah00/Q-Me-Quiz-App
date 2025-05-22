@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Q'Me | Statistics</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/home.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/statistics.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/navbar.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script defer src="{{ url_for('static', filename='scripts/quiz/statistics.js') }}"></script>
+</head>
+<body>
+    {% include 'navbar.html' %}
+    <div class="statistics-container">
+        <h2 class="title">Quiz Statistics</h2>
+        <div class="chart-card">
+            <h3>Your Correct Answer Rate by Topic</h3>
+            <canvas id="user-chart"></canvas>
+        </div>
+        <div class="chart-card">
+            <h3>Global Average Score by Age</h3>
+            <canvas id="global-chart"></canvas>
+        </div>
+    </div>
+</body>
+</html>

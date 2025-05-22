@@ -1,0 +1,54 @@
+body {
+    font-family: 'Courier New', sans-serif;
+    background: linear-gradient(to right, #adb99f, #EFF1ED);
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+    color: #6d5d3f;
+}
+
+.logout-container {
+    max-width: 500px;
+    margin: 80px auto;
+    padding: 40px;
+    background-color: white;
+    border-radius: 16px;
+    box-shadow: 0 0 20px #71774450;
+    font-family: 'Courier New', monospace;
+    text-align: center;
+}
+
+.logout-question {
+    color: #5A2A27;
+    margin-bottom: 30px;
+}
+
+.logout-actions {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.logout-btn {
+    padding: 12px 24px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-family: inherit;
+    text-decoration: none;
+    text-align: center;
+}
+
+.logout-btn.confirm {
+    background-color: #b63e3e;
+    color: white;
+}
+
+.logout-btn.cancel {
+    background-color: #647744;
+    color: white;
+}
+.logout-btn:hover {
+    opacity: 0.9;
+}

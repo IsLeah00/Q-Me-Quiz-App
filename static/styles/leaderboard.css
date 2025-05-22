@@ -1,0 +1,85 @@
+.leaderboard-container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 40px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0 0 20px #71774470;
+    font-family: 'Courier New', monospace;
+    text-align: center;
+}
+
+.title {
+    color: #717744;
+    margin-bottom: 30px;
+}
+
+.leaderboard-top {
+    background-color: #71774448;
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 30px;
+    box-shadow: 0 0 10px rgba(126, 128, 0, 0.2);
+}
+
+.leaderboard-top h3 {
+    margin-bottom: 10px;
+}
+
+#leaderboard-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#leaderboard-table th,
+#leaderboard-table td {
+    padding: 10px;
+    border: 1px solid #717744;
+    text-align: center;
+}
+
+#leaderboard-table th {
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+.user-row {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.profile-pic {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid #717744;
+}
+
+.user-info p {
+    margin: 4px 0;
+}
+
+.user-cell {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+#pagination button {
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #717744;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-family: 'Courier New', monospace;
+}
+
+#pagination button:hover {
+    background-color: #5f6538;
+}

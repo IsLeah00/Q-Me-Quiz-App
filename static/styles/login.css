@@ -1,0 +1,88 @@
+body {
+    margin: 0;
+    font-family: 'Courier New', sans-serif;
+    background: linear-gradient(to right, #9ea374, #EFF1ED);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.login-container {
+    background: white;
+    border-radius: 20px;
+    padding: 50px;
+    width: 350px;
+    box-shadow: 0 0 20px #717744b6;
+    text-align: center;
+}
+
+.title {
+    margin-bottom: 30px;
+    color: #717744;
+}
+
+input[type="text"], input[type="password"] {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-size: 16px;
+}
+
+input:focus {
+    border-color: #717744b6;
+    outline: none;
+    box-shadow: 0 0 5px #978053be;
+}
+
+.password-wrapper {
+    position: relative;
+}
+
+.hide-icon {
+    position: absolute;
+    right: 12px;
+    top: 12px;
+    cursor: pointer;
+    font-size: 26px;
+}
+
+.login-button {
+    width: 100%;
+    padding: 12px;
+    background-color: #717744;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.login-button:hover {
+    background-color: #717744b6;
+}
+
+.register-link {
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+.logo {
+    width: 300px;
+    height: auto;
+    margin-bottom: 2px;
+}
+
+a {
+    color: #373d20ad;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #717744b6;
+}

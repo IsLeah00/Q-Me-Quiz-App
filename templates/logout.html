@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Q'Me | Logout</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/logout.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/navbar.css') }}">
+</head>
+<body>
+    {% include 'navbar.html' %}
+    <div class="logout-container">
+        <h2 class="logout-question">Are you sure you want to log out?</h2>
+        <form method="POST" action="/api/logout" class="logout-actions">
+            <button type="submit" class="logout-btn confirm">Yes, log me out</button>
+            <a href="/home" class="logout-btn cancel">No, take me back</a>
+        </form>
+    </div>
+</body>
+</html>

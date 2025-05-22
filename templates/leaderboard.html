@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Q'Me | Leaderboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/home.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/leaderboard.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/navbar.css') }}">
+    <script defer src="{{ url_for('static', filename='scripts/quiz/leaderboard.js') }}"></script>
+</head>
+<body>
+    {% include 'navbar.html' %}
+    <div class="leaderboard-container">
+        <h2 class="title">Leaderboard</h2>
+
+        <div id="top-user" class="leaderboard-top"></div>
+        <h3>Other High Scorers</h3>
+        <table id="leaderboard-table">
+            <thead>
+                <tr>
+                    <th>Username</th>
+                    <th>Total Score</th>
+                    <th>Top Score</th>
+                    <th>Last Updated</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <div id="pagination" style="margin-top: 20px;"></div>
+    </div>
+</body>
+</html>

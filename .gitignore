@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.env.*
+*.venv
+venv/
+ENV/
+env/
+.Python
+*.sqlite3
+instance/
+config.py
+
+# Logs and database
+*.log
+*.db
+*.sql
+
+# Uploads and images
+static/images/profiles/
+
+# Flask cache and settings
+*.bak
+*.swp
+*.tmp
+*.pid
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Bytecode
+*.pyc
+
+# JWT secrets or local config overrides
+config_local.py
+.secret_key
+.env

@@ -1,0 +1,42 @@
+h3 {
+    text-align: left;
+    font-size: 18px;
+    margin: 0 0 6px 4px;
+    color: #776544;
+}
+
+.password-rules {
+    list-style: none;
+    text-align: left;
+    padding-left: 0;
+    font-size: 14px;
+    margin-top: -5px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    color: #555;
+}
+
+.password-rules li {
+    transition: color 0.2s ease-in-out;
+}
+
+.password-rules li.valid {
+    color: #84aa61;
+}
+
+input,
+.password-wrapper {
+    margin-top: 0;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="date"],
+input[type="file"] {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 25px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-size: 16px;
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Q'Me | Register</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/login.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/register.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/message.css') }}">
+    <script defer src="{{ url_for('static', filename='scripts/auth/passwordCheck.js') }}"></script>
+    <script defer src="{{ url_for('static', filename='scripts/auth/passwordView.js') }}"></script>
+    <script defer src="{{ url_for('static', filename='scripts/auth/register.js') }}"></script>
+</head>
+<body>
+    <div class="logo-container">
+        <img src="{{ url_for('static', filename='images/q-me-logo.png') }}" alt="Q-Me Logo" class="logo">
+    </div>
+    <div class="login-container">
+        <h1 class="title">Join Us</h1>
+        <div id="form-message" class="form-message" style="display: none;"></div>
+        <form method="POST" action="/api/register" enctype="multipart/form-data">
+
+            <h3>Username</h3>
+            <input type="text" name="username" placeholder="Username" required>
+
+            <h3>Birthdate</h3>
+            <input type="date" name="birthdate" placeholder="Birthdate" required>
+
+            <h3>Password</h3>
+            <div class="password-wrapper">
+                <input type="password" name="password" id="password" placeholder="Password" required>
+                <span id="togglePassword" class="hide-icon">🙉</span>
+            </div>
+
+            <ul class="password-rules">
+                <li id="length">At least 6 characters</li>
+                <li id="uppercase">Uppercase letters</li>
+                <li id="lowercase">Lowercase letters</li>
+                <li id="number">Numbers</li>
+                <li id="special">Special characters</li>
+            </ul>
+
+            <h3>Profile Picture</h3>
+            <input type="file" name="profilePic" accept=".png,.jpg,.jpeg,.svg">
+
+            <button type="submit" class="login-button">Register</button>
+
+            <div class="register-link">
+                Already have an account? <a href="/login">Login here</a>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

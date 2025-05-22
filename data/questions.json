@@ -1,0 +1,2294 @@
+[
+    {
+        "topicName": "History",
+        "questionText": "Who discovered America in 1492?",
+        "difficulty": "easy",
+        "answers": [
+            { "answerText": "Christopher Columbus", "isCorrect": true },
+            { "answerText": "Marco Polo", "isCorrect": false },
+            { "answerText": "Ferdinand Magellan", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "History",
+        "questionText": "What was the name of the ship that brought the Pilgrims to America?",
+        "difficulty": "easy",
+        "answers": [
+            { "answerText": "Mayflower", "isCorrect": true },
+            { "answerText": "Santa Maria", "isCorrect": false },
+            { "answerText": "Endeavour", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "History",
+        "questionText": "Which civilization built the pyramids?",
+        "difficulty": "easy",
+        "answers": [
+            { "answerText": "Egyptian", "isCorrect": true },
+            { "answerText": "Mayan", "isCorrect": false },
+            { "answerText": "Greek", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "History",
+        "questionText": "Who was the British Prime Minister during WWII?",
+        "difficulty": "easy",
+        "answers": [
+            { "answerText": "Winston Churchill", "isCorrect": true },
+            { "answerText": "Neville Chamberlain", "isCorrect": false },
+            { "answerText": "Margaret Thatcher", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "History",
+        "questionText": "Which war ended with the Treaty of Versailles?",
+        "difficulty": "easy",
+        "answers": [
+            { "answerText": "World War I", "isCorrect": true },
+            { "answerText": "World War II", "isCorrect": false },
+            { "answerText": "Cold War", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "History",
+        "questionText": "Who was the leader of Nazi Germany?",
+        "difficulty": "easy",
+        "answers": [
+            { "answerText": "Adolf Hitler", "isCorrect": true },
+            { "answerText": "Joseph Stalin", "isCorrect": false },
+            { "answerText": "Benito Mussolini", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "History",
+        "questionText": "What ancient city was buried by the eruption of Mount Vesuvius?",
+        "difficulty": "easy",
+        "answers": [
+            { "answerText": "Pompeii", "isCorrect": true },
+            { "answerText": "Athens", "isCorrect": false },
+            { "answerText": "Rome", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "History",
+        "questionText": "Who was the first man to walk on the Moon?",
+        "difficulty": "easy",
+        "answers": [
+            { "answerText": "Neil Armstrong", "isCorrect": true },
+            { "answerText": "Buzz Aldrin", "isCorrect": false },
+            { "answerText": "Yuri Gagarin", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "History",
+        "questionText": "The Great Fire of London happened in which year?",
+        "difficulty": "easy",
+        "answers": [
+            { "answerText": "1666", "isCorrect": true },
+            { "answerText": "1766", "isCorrect": false },
+            { "answerText": "1566", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "History",
+        "questionText": "Which country gifted the Statue of Liberty to the USA?",
+        "difficulty": "easy",
+        "answers": [
+            { "answerText": "France", "isCorrect": true },
+            { "answerText": "England", "isCorrect": false },
+            { "answerText": "Germany", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "History",
+        "questionText": "What sparked the French Revolution in 1789?",
+        "difficulty": "medium",
+        "answers": [
+            { "answerText": "Economic crisis and inequality", "isCorrect": true },
+            { "answerText": "A foreign invasion", "isCorrect": false },
+            { "answerText": "Religious persecution", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "History",
+        "questionText": "Who was the longest-reigning British monarch before Queen Elizabeth II?",
+        "difficulty": "medium",
+        "answers": [
+            { "answerText": "Queen Victoria", "isCorrect": true },
+            { "answerText": "Henry VIII", "isCorrect": false },
+            { "answerText": "George III", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "History",
+        "questionText": "Which explorer led the first circumnavigation of the globe?",
+        "difficulty": "medium",
+        "answers": [
+            { "answerText": "Ferdinand Magellan", "isCorrect": true },
+            { "answerText": "Vasco da Gama", "isCorrect": false },
+            { "answerText": "Amerigo Vespucci", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "History",
+        "questionText": "What was the main cause of the American Civil War?",
+        "difficulty": "medium",
+        "answers": [
+            { "answerText": "Slavery and states' rights", "isCorrect": true },
+            { "answerText": "Trade with Europe", "isCorrect": false },
+            { "answerText": "Tax disputes", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "History",
+        "questionText": "The Iron Curtain was a term used during which conflict?",
+        "difficulty": "medium",
+        "answers": [
+            { "answerText": "Cold War", "isCorrect": true },
+            { "answerText": "Vietnam War", "isCorrect": false },
+            { "answerText": "Korean War", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "History",
+        "questionText": "Who was the founder of the Mongol Empire?",
+        "difficulty": "hard",
+        "answers": [
+            { "answerText": "Genghis Khan", "isCorrect": true },
+            { "answerText": "Kublai Khan", "isCorrect": false },
+            { "answerText": "Attila the Hun", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "History",
+        "questionText": "The Byzantine Empire was the continuation of which empire?",
+        "difficulty": "hard",
+        "answers": [
+            { "answerText": "Roman Empire", "isCorrect": true },
+            { "answerText": "Ottoman Empire", "isCorrect": false },
+            { "answerText": "Persian Empire", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "History",
+        "questionText": "Which historical event was triggered by the stock market crash of 1929?",
+        "difficulty": "hard",
+        "answers": [
+            { "answerText": "The Great Depression", "isCorrect": true },
+            { "answerText": "World War II", "isCorrect": false },
+            { "answerText": "Dust Bowl", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "History",
+        "questionText": "Who led the Haitian Revolution?",
+        "difficulty": "hard",
+        "answers": [
+            { "answerText": "Toussaint Louverture", "isCorrect": true },
+            { "answerText": "Simon Bolivar", "isCorrect": false },
+            { "answerText": "Francisco Pizarro", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "History",
+        "questionText": "What treaty ended the Napoleonic Wars?",
+        "difficulty": "hard",
+        "answers": [
+            { "answerText": "Treaty of Paris (1815)", "isCorrect": true },
+            { "answerText": "Treaty of Versailles", "isCorrect": false },
+            { "answerText": "Treaty of Tordesillas", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Physics",
+        "questionText": "What force pulls objects toward the Earth?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Gravity", "isCorrect": true },
+        { "answerText": "Friction", "isCorrect": false },
+        { "answerText": "Magnetism", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Physics",
+        "questionText": "Which device is used to measure temperature?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Thermometer", "isCorrect": true },
+        { "answerText": "Barometer", "isCorrect": false },
+        { "answerText": "Micrometer", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Physics",
+        "questionText": "Light travels fastest in which medium?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Vacuum", "isCorrect": true },
+        { "answerText": "Air", "isCorrect": false },
+        { "answerText": "Water", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Physics",
+        "questionText": "Which of the following is NOT a state of matter?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Cold", "isCorrect": true },
+        { "answerText": "Solid", "isCorrect": false },
+        { "answerText": "Gas", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Physics",
+        "questionText": "What color has the shortest wavelength in visible light?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Violet", "isCorrect": true },
+        { "answerText": "Red", "isCorrect": false },
+        { "answerText": "Green", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Physics",
+        "questionText": "What is the SI unit of force?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Newton", "isCorrect": true },
+        { "answerText": "Pascal", "isCorrect": false },
+        { "answerText": "Joule", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Physics",
+        "questionText": "Which law explains why we need seatbelts in cars?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Newton's First Law", "isCorrect": true },
+        { "answerText": "Hooke's Law", "isCorrect": false },
+        { "answerText": "Ohm's Law", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Physics",
+        "questionText": "What is the primary cause of tides on Earth?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Gravitational pull of the Moon", "isCorrect": true },
+        { "answerText": "Solar flares", "isCorrect": false },
+        { "answerText": "Earth's rotation", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Physics",
+        "questionText": "Which physical quantity has the unit 'Joule'?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Energy", "isCorrect": true },
+        { "answerText": "Power", "isCorrect": false },
+        { "answerText": "Pressure", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Physics",
+        "questionText": "Which phenomenon explains why a straw looks bent in a glass of water?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Refraction", "isCorrect": true },
+        { "answerText": "Reflection", "isCorrect": false },
+        { "answerText": "Diffraction", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Physics",
+        "questionText": "What does E equal in Einstein’s famous equation E=mc²?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Energy", "isCorrect": true },
+        { "answerText": "Entropy", "isCorrect": false },
+        { "answerText": "Electricity", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Physics",
+        "questionText": "Which principle explains the lift force on airplane wings?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Bernoulli's Principle", "isCorrect": true },
+        { "answerText": "Archimedes’ Principle", "isCorrect": false },
+        { "answerText": "Pascal’s Principle", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Physics",
+        "questionText": "Which type of radiation has the highest frequency?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Gamma rays", "isCorrect": true },
+        { "answerText": "X-rays", "isCorrect": false },
+        { "answerText": "Ultraviolet rays", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Physics",
+        "questionText": "What is Planck’s constant used to calculate?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Energy of a photon", "isCorrect": true },
+        { "answerText": "Mass of an electron", "isCorrect": false },
+        { "answerText": "Speed of light", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Physics",
+        "questionText": "What is the Heisenberg uncertainty principle about?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Limits of measuring position and momentum simultaneously", "isCorrect": true },
+        { "answerText": "Quantum entanglement", "isCorrect": false },
+        { "answerText": "Conservation of energy", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "General Knowledge",
+        "questionText": "What is the primary color of a school bus?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Yellow", "isCorrect": true },
+        { "answerText": "Red", "isCorrect": false },
+        { "answerText": "Blue", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "General Knowledge",
+        "questionText": "How many legs does a spider have?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "8", "isCorrect": true },
+        { "answerText": "6", "isCorrect": false },
+        { "answerText": "10", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "General Knowledge",
+        "questionText": "What is the capital of France?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Paris", "isCorrect": true },
+        { "answerText": "Berlin", "isCorrect": false },
+        { "answerText": "Madrid", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "General Knowledge",
+        "questionText": "Which animal is known as the King of the Jungle?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Lion", "isCorrect": true },
+        { "answerText": "Elephant", "isCorrect": false },
+        { "answerText": "Tiger", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "General Knowledge",
+        "questionText": "What do bees make?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Honey", "isCorrect": true },
+        { "answerText": "Milk", "isCorrect": false },
+        { "answerText": "Silk", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "General Knowledge",
+        "questionText": "Which planet is closest to the Sun?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Mercury", "isCorrect": true },
+        { "answerText": "Venus", "isCorrect": false },
+        { "answerText": "Mars", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "General Knowledge",
+        "questionText": "Which country invented pizza?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Italy", "isCorrect": true },
+        { "answerText": "France", "isCorrect": false },
+        { "answerText": "Greece", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "General Knowledge",
+        "questionText": "Which gas do plants absorb from the atmosphere?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Carbon dioxide", "isCorrect": true },
+        { "answerText": "Oxygen", "isCorrect": false },
+        { "answerText": "Nitrogen", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "General Knowledge",
+        "questionText": "What is the boiling point of water in Celsius?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "100°C", "isCorrect": true },
+        { "answerText": "90°C", "isCorrect": false },
+        { "answerText": "80°C", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "General Knowledge",
+        "questionText": "Which continent is the Sahara Desert located in?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Africa", "isCorrect": true },
+        { "answerText": "Asia", "isCorrect": false },
+        { "answerText": "Australia", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "General Knowledge",
+        "questionText": "What is the currency of Japan?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Yen", "isCorrect": true },
+        { "answerText": "Won", "isCorrect": false },
+        { "answerText": "Ringgit", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "General Knowledge",
+        "questionText": "What is the tallest mountain in the world?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Mount Everest", "isCorrect": true },
+        { "answerText": "K2", "isCorrect": false },
+        { "answerText": "Kangchenjunga", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "General Knowledge",
+        "questionText": "What is the name of the longest river in the world?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Nile", "isCorrect": true },
+        { "answerText": "Amazon", "isCorrect": false },
+        { "answerText": "Yangtze", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "General Knowledge",
+        "questionText": "Which element has the chemical symbol 'Au'?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Gold", "isCorrect": true },
+        { "answerText": "Silver", "isCorrect": false },
+        { "answerText": "Aluminum", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "General Knowledge",
+        "questionText": "Which famous scientist developed the three laws of motion?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Isaac Newton", "isCorrect": true },
+        { "answerText": "Albert Einstein", "isCorrect": false },
+        { "answerText": "Galileo Galilei", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mathematics",
+        "questionText": "What is 7 + 5?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "12", "isCorrect": true },
+        { "answerText": "13", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mathematics",
+        "questionText": "What is the square of 3?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "9", "isCorrect": true },
+        { "answerText": "6", "isCorrect": false },
+        { "answerText": "3", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mathematics",
+        "questionText": "Which number is even?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "4", "isCorrect": true },
+        { "answerText": "5", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mathematics",
+        "questionText": "What is 10 minus 3?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "7", "isCorrect": true },
+        { "answerText": "6", "isCorrect": false },
+        { "answerText": "8", "isCorrect": false },
+        { "answerText": "5", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mathematics",
+        "questionText": "Which shape has 4 equal sides?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Square", "isCorrect": true },
+        { "answerText": "Triangle", "isCorrect": false },
+        { "answerText": "Circle", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mathematics",
+        "questionText": "What is the value of π (pi) to two decimal places?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "3.14", "isCorrect": true },
+        { "answerText": "3.12", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mathematics",
+        "questionText": "What is 15 × 4?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "60", "isCorrect": true },
+        { "answerText": "45", "isCorrect": false },
+        { "answerText": "55", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mathematics",
+        "questionText": "What is the square root of 144?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "12", "isCorrect": true },
+        { "answerText": "14", "isCorrect": false },
+        { "answerText": "11", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mathematics",
+        "questionText": "Which of the following is a prime number?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "17", "isCorrect": true },
+        { "answerText": "21", "isCorrect": false },
+        { "answerText": "30", "isCorrect": false },
+        { "answerText": "10", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mathematics",
+        "questionText": "What is 100 divided by 4?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "25", "isCorrect": true },
+        { "answerText": "20", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mathematics",
+        "questionText": "What is the derivative of sin(x)?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "cos(x)", "isCorrect": true },
+        { "answerText": "-cos(x)", "isCorrect": false },
+        { "answerText": "sin(x)", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mathematics",
+        "questionText": "What is the integral of 1/x dx?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "ln|x| + C", "isCorrect": true },
+        { "answerText": "1/x + C", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mathematics",
+        "questionText": "What is the solution to the equation x² - 4 = 0?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "x = ±2", "isCorrect": true },
+        { "answerText": "x = 0", "isCorrect": false },
+        { "answerText": "x = ±4", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mathematics",
+        "questionText": "Which formula is used to calculate the area of a circle?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "πr²", "isCorrect": true },
+        { "answerText": "2πr", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mathematics",
+        "questionText": "What is the value of the golden ratio (φ) to two decimal places?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "1.62", "isCorrect": true },
+        { "answerText": "1.41", "isCorrect": false },
+        { "answerText": "2.72", "isCorrect": false },
+        { "answerText": "3.14", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Geography",
+        "questionText": "Which continent is the Sahara Desert located on?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Africa", "isCorrect": true },
+        { "answerText": "Asia", "isCorrect": false },
+        { "answerText": "Australia", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Geography",
+        "questionText": "What is the capital city of France?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Paris", "isCorrect": true },
+        { "answerText": "Lyon", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Geography",
+        "questionText": "Mount Everest is part of which mountain range?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Himalayas", "isCorrect": true },
+        { "answerText": "Andes", "isCorrect": false },
+        { "answerText": "Alps", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Geography",
+        "questionText": "Which ocean lies between Africa and Australia?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Indian Ocean", "isCorrect": true },
+        { "answerText": "Atlantic Ocean", "isCorrect": false },
+        { "answerText": "Pacific Ocean", "isCorrect": false },
+        { "answerText": "Arctic Ocean", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Geography",
+        "questionText": "Which country is shaped like a boot?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Italy", "isCorrect": true },
+        { "answerText": "Spain", "isCorrect": false },
+        { "answerText": "Portugal", "isCorrect": false }
+        ]
+    },
+
+    {
+        "topicName": "Geography",
+        "questionText": "What is the longest river in the world?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Nile", "isCorrect": true },
+        { "answerText": "Amazon", "isCorrect": false },
+        { "answerText": "Yangtze", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Geography",
+        "questionText": "Which country has the most natural lakes?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Canada", "isCorrect": true },
+        { "answerText": "Finland", "isCorrect": false },
+        { "answerText": "Russia", "isCorrect": false },
+        { "answerText": "United States", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Geography",
+        "questionText": "What is the smallest country in the world?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Vatican City", "isCorrect": true },
+        { "answerText": "Monaco", "isCorrect": false },
+        { "answerText": "San Marino", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Geography",
+        "questionText": "Which U.S. state has the longest coastline?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Alaska", "isCorrect": true },
+        { "answerText": "Florida", "isCorrect": false },
+        { "answerText": "California", "isCorrect": false },
+        { "answerText": "Hawaii", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Geography",
+        "questionText": "What is the capital of New Zealand?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Wellington", "isCorrect": true },
+        { "answerText": "Auckland", "isCorrect": false },
+        { "answerText": "Christchurch", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Geography",
+        "questionText": "Which African country has the highest population?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Nigeria", "isCorrect": true },
+        { "answerText": "Ethiopia", "isCorrect": false },
+        { "answerText": "Egypt", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Geography",
+        "questionText": "Which city is known as the 'City of a Hundred Spires'?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Prague", "isCorrect": true },
+        { "answerText": "Vienna", "isCorrect": false },
+        { "answerText": "Budapest", "isCorrect": false },
+        { "answerText": "Brussels", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Geography",
+        "questionText": "Which mountain is the tallest outside of Asia?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Aconcagua", "isCorrect": true },
+        { "answerText": "Kilimanjaro", "isCorrect": false },
+        { "answerText": "Denali", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Geography",
+        "questionText": "What line divides the Earth into Northern and Southern hemispheres?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Equator", "isCorrect": true },
+        { "answerText": "Prime Meridian", "isCorrect": false },
+        { "answerText": "Tropic of Cancer", "isCorrect": false },
+        { "answerText": "International Date Line", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Geography",
+        "questionText": "What is the name of the sea between Europe and Africa?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Mediterranean Sea", "isCorrect": true },
+        { "answerText": "Red Sea", "isCorrect": false },
+        { "answerText": "Black Sea", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Biology",
+        "questionText": "What is the basic unit of life?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Cell", "isCorrect": true },
+        { "answerText": "Atom", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Biology",
+        "questionText": "What do plants use to perform photosynthesis?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Chlorophyll", "isCorrect": true },
+        { "answerText": "Hemoglobin", "isCorrect": false },
+        { "answerText": "Keratin", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Biology",
+        "questionText": "Which organ pumps blood throughout the body?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Heart", "isCorrect": true },
+        { "answerText": "Lungs", "isCorrect": false },
+        { "answerText": "Brain", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Biology",
+        "questionText": "Humans are classified as what type of organism?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Mammals", "isCorrect": true },
+        { "answerText": "Reptiles", "isCorrect": false },
+        { "answerText": "Fish", "isCorrect": false },
+        { "answerText": "Insects", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Biology",
+        "questionText": "Which part of the plant absorbs water from the soil?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Roots", "isCorrect": true },
+        { "answerText": "Leaves", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Biology",
+        "questionText": "What molecule carries genetic information?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "DNA", "isCorrect": true },
+        { "answerText": "RNA", "isCorrect": false },
+        { "answerText": "ATP", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Biology",
+        "questionText": "Which system in the human body controls hormones?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Endocrine system", "isCorrect": true },
+        { "answerText": "Respiratory system", "isCorrect": false },
+        { "answerText": "Digestive system", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Biology",
+        "questionText": "Which part of the brain controls balance and coordination?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Cerebellum", "isCorrect": true },
+        { "answerText": "Cerebrum", "isCorrect": false },
+        { "answerText": "Brainstem", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Biology",
+        "questionText": "What is the process of cell division called?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Mitosis", "isCorrect": true },
+        { "answerText": "Meiosis", "isCorrect": false },
+        { "answerText": "Fusion", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Biology",
+        "questionText": "Which gas do animals exhale as a waste product?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Carbon dioxide", "isCorrect": true },
+        { "answerText": "Oxygen", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Biology",
+        "questionText": "What term describes organisms that can make their own food?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Autotrophs", "isCorrect": true },
+        { "answerText": "Heterotrophs", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Biology",
+        "questionText": "Which process converts nitrogen in the atmosphere into usable compounds?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Nitrogen fixation", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Biology",
+        "questionText": "Which organelle is known as the powerhouse of the cell?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Mitochondria", "isCorrect": true },
+        { "answerText": "Nucleus", "isCorrect": false },
+        { "answerText": "Ribosome", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Biology",
+        "questionText": "What is the primary function of white blood cells?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Fight infections", "isCorrect": true },
+        { "answerText": "Transport oxygen", "isCorrect": false },
+        { "answerText": "Clot blood", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Biology",
+        "questionText": "Which scientist developed the theory of evolution by natural selection?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Charles Darwin", "isCorrect": true },
+        { "answerText": "Gregor Mendel", "isCorrect": false },
+        { "answerText": "Louis Pasteur", "isCorrect": false },
+        { "answerText": "Alexander Fleming", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Chemistry",
+        "questionText": "What is the chemical symbol for water?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "H₂O", "isCorrect": true },
+        { "answerText": "HO", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Chemistry",
+        "questionText": "Which gas do plants absorb from the atmosphere?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Carbon Dioxide", "isCorrect": true },
+        { "answerText": "Oxygen", "isCorrect": false },
+        { "answerText": "Nitrogen", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Chemistry",
+        "questionText": "What is the atomic number of hydrogen?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "1", "isCorrect": true },
+        { "answerText": "2", "isCorrect": false },
+        { "answerText": "0", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Chemistry",
+        "questionText": "Which of these is a noble gas?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Helium", "isCorrect": true },
+        { "answerText": "Hydrogen", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Chemistry",
+        "questionText": "What is table salt chemically known as?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Sodium Chloride", "isCorrect": true },
+        { "answerText": "Potassium Iodide", "isCorrect": false },
+        { "answerText": "Calcium Carbonate", "isCorrect": false },
+        { "answerText": "Magnesium Sulfate", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Chemistry",
+        "questionText": "Which element has the atomic number 6?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Carbon", "isCorrect": true },
+        { "answerText": "Nitrogen", "isCorrect": false },
+        { "answerText": "Oxygen", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Chemistry",
+        "questionText": "What kind of bond involves the sharing of electrons?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Covalent bond", "isCorrect": true },
+        { "answerText": "Ionic bond", "isCorrect": false },
+        { "answerText": "Metallic bond", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Chemistry",
+        "questionText": "Which acid is found in lemon juice?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Citric acid", "isCorrect": true },
+        { "answerText": "Acetic acid", "isCorrect": false },
+        { "answerText": "Sulfuric acid", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Chemistry",
+        "questionText": "Which scientist created the periodic table?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Dmitri Mendeleev", "isCorrect": true },
+        { "answerText": "Marie Curie", "isCorrect": false },
+        { "answerText": "Antoine Lavoisier", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Chemistry",
+        "questionText": "What is the pH of pure water?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "7", "isCorrect": true },
+        { "answerText": "5", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Chemistry",
+        "questionText": "What is Avogadro’s number?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "6.022 × 10²³", "isCorrect": true },
+        { "answerText": "3.14", "isCorrect": false },
+        { "answerText": "9.81 m/s²", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Chemistry",
+        "questionText": "What is the main component of natural gas?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Methane", "isCorrect": true },
+        { "answerText": "Ethane", "isCorrect": false },
+        { "answerText": "Butane", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Chemistry",
+        "questionText": "Which type of reaction is 2H₂ + O₂ → 2H₂O?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Synthesis", "isCorrect": true },
+        { "answerText": "Decomposition", "isCorrect": false },
+        { "answerText": "Single displacement", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Chemistry",
+        "questionText": "Which metal is liquid at room temperature?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Mercury", "isCorrect": true },
+        { "answerText": "Lead", "isCorrect": false },
+        { "answerText": "Zinc", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Chemistry",
+        "questionText": "What is the molar mass of water?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "18 g/mol", "isCorrect": true },
+        { "answerText": "16 g/mol", "isCorrect": false },
+        { "answerText": "20 g/mol", "isCorrect": false },
+        { "answerText": "12 g/mol", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Computer Science",
+        "questionText": "What does 'CPU' stand for?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Central Processing Unit", "isCorrect": true },
+        { "answerText": "Computer Power Unit", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Computer Science",
+        "questionText": "Which of these is a programming language?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Python", "isCorrect": true },
+        { "answerText": "Anaconda", "isCorrect": false },
+        { "answerText": "Viper", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Computer Science",
+        "questionText": "What is the brain of the computer?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "CPU", "isCorrect": true },
+        { "answerText": "RAM", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Computer Science",
+        "questionText": "What does HTML stand for?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "HyperText Markup Language", "isCorrect": true },
+        { "answerText": "Hyperlink Tool Markup Logic", "isCorrect": false },
+        { "answerText": "Hyper Tag Machine Language", "isCorrect": false },
+        { "answerText": "Hacked Typing Mode Logic", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Computer Science",
+        "questionText": "Which part stores temporary data?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "RAM", "isCorrect": true },
+        { "answerText": "Hard Drive", "isCorrect": false },
+        { "answerText": "GPU", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Computer Science",
+        "questionText": "What is a function in programming?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Reusable block of code", "isCorrect": true },
+        { "answerText": "Data storage type", "isCorrect": false },
+        { "answerText": "Security protocol", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Computer Science",
+        "questionText": "Which one is not an operating system?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Windows", "isCorrect": false },
+        { "answerText": "Ubuntu", "isCorrect": false },
+        { "answerText": "Java", "isCorrect": true }
+        ]
+    },
+    {
+        "topicName": "Computer Science",
+        "questionText": "What does 'open-source' mean?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Freely accessible and modifiable", "isCorrect": true },
+        { "answerText": "Only usable online", "isCorrect": false },
+        { "answerText": "Requires a license fee", "isCorrect": false },
+        { "answerText": "Works only with Linux", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Computer Science",
+        "questionText": "Which company created the C# language?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Microsoft", "isCorrect": true },
+        { "answerText": "Apple", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Computer Science",
+        "questionText": "What is the primary use of SQL?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Managing databases", "isCorrect": true },
+        { "answerText": "Designing websites", "isCorrect": false },
+        { "answerText": "Editing videos", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Computer Science",
+        "questionText": "What is a recursive function?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "A function that calls itself", "isCorrect": true },
+        { "answerText": "A function that deletes itself", "isCorrect": false },
+        { "answerText": "A function with no return", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Computer Science",
+        "questionText": "What is the time complexity of binary search?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "O(log n)", "isCorrect": true },
+        { "answerText": "O(n)", "isCorrect": false },
+        { "answerText": "O(n^2)", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Computer Science",
+        "questionText": "Which sorting algorithm is NOT stable?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Quick Sort", "isCorrect": true },
+        { "answerText": "Merge Sort", "isCorrect": false },
+        { "answerText": "Bubble Sort", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Computer Science",
+        "questionText": "What is the purpose of a hash function?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Map data to a fixed size", "isCorrect": true },
+        { "answerText": "Encrypt sensitive files", "isCorrect": false },
+        { "answerText": "Create user interfaces", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Computer Science",
+        "questionText": "What is an abstraction in OOP?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Hiding implementation details", "isCorrect": true },
+        { "answerText": "Direct access to variables", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Literature",
+        "questionText": "Who wrote 'Romeo and Juliet'?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "William Shakespeare", "isCorrect": true },
+        { "answerText": "Jane Austen", "isCorrect": false },
+        { "answerText": "Charles Dickens", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Literature",
+        "questionText": "What is the name of the wizarding school in Harry Potter?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Hogwarts", "isCorrect": true },
+        { "answerText": "Durmstrang", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Literature",
+        "questionText": "Who is the author of 'The Hobbit'?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "J.R.R. Tolkien", "isCorrect": true },
+        { "answerText": "C.S. Lewis", "isCorrect": false },
+        { "answerText": "George R.R. Martin", "isCorrect": false },
+        { "answerText": "J.K. Rowling", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Literature",
+        "questionText": "What is the name of Sherlock Holmes' loyal friend?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Dr. Watson", "isCorrect": true },
+        { "answerText": "Inspector Lestrade", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Literature",
+        "questionText": "Which novel begins with 'Call me Ishmael'?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Moby-Dick", "isCorrect": true },
+        { "answerText": "The Old Man and the Sea", "isCorrect": false },
+        { "answerText": "The Great Gatsby", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Literature",
+        "questionText": "Who wrote 'Pride and Prejudice'?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Jane Austen", "isCorrect": true },
+        { "answerText": "Emily Brontë", "isCorrect": false },
+        { "answerText": "Louisa May Alcott", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Literature",
+        "questionText": "In George Orwell's '1984', what is the name of the totalitarian regime?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Big Brother", "isCorrect": true },
+        { "answerText": "The Party", "isCorrect": false },
+        { "answerText": "The State", "isCorrect": false },
+        { "answerText": "The Regime", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Literature",
+        "questionText": "Which Brontë sister wrote 'Wuthering Heights'?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Emily Brontë", "isCorrect": true },
+        { "answerText": "Charlotte Brontë", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Literature",
+        "questionText": "What is the genre of Franz Kafka's 'The Metamorphosis'?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Absurdist fiction", "isCorrect": true },
+        { "answerText": "Science fiction", "isCorrect": false },
+        { "answerText": "Romantic fiction", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Literature",
+        "questionText": "In which novel does the character Atticus Finch appear?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "To Kill a Mockingbird", "isCorrect": true },
+        { "answerText": "Of Mice and Men", "isCorrect": false },
+        { "answerText": "Catcher in the Rye", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Literature",
+        "questionText": "Which Russian author wrote 'Crime and Punishment'?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Fyodor Dostoevsky", "isCorrect": true },
+        { "answerText": "Leo Tolstoy", "isCorrect": false },
+        { "answerText": "Anton Chekhov", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Literature",
+        "questionText": "Who wrote 'The Divine Comedy'?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Dante Alighieri", "isCorrect": true },
+        { "answerText": "Virgil", "isCorrect": false },
+        { "answerText": "Homer", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Literature",
+        "questionText": "Which novel is considered the first science fiction story?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Frankenstein", "isCorrect": true },
+        { "answerText": "The Time Machine", "isCorrect": false },
+        { "answerText": "Dr. Jekyll and Mr. Hyde", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Literature",
+        "questionText": "What is the pen name of Mary Ann Evans?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "George Eliot", "isCorrect": true },
+        { "answerText": "George Sand", "isCorrect": false },
+        { "answerText": "George Orwell", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Literature",
+        "questionText": "Which novel features the character Raskolnikov?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Crime and Punishment", "isCorrect": true },
+        { "answerText": "War and Peace", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Art & Design",
+        "questionText": "Who painted the Mona Lisa?",
+        "difficulty": "easy",
+        "answers": [
+            { "answerText": "Leonardo da Vinci", "isCorrect": true },
+            { "answerText": "Pablo Picasso", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Art & Design",
+        "questionText": "Which art movement is Salvador Dalí associated with?",
+        "difficulty": "easy",
+        "answers": [
+            { "answerText": "Surrealism", "isCorrect": true },
+            { "answerText": "Impressionism", "isCorrect": false },
+            { "answerText": "Cubism", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Art & Design",
+        "questionText": "What is the primary color NOT included in RGB?",
+        "difficulty": "easy",
+        "answers": [
+            { "answerText": "Yellow", "isCorrect": true },
+            { "answerText": "Red", "isCorrect": false },
+            { "answerText": "Green", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Art & Design",
+        "questionText": "What tool is commonly used to mix paint on a palette?",
+        "difficulty": "easy",
+        "answers": [
+            { "answerText": "Palette knife", "isCorrect": true },
+            { "answerText": "Screwdriver", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Art & Design",
+        "questionText": "Which element of design refers to lightness or darkness of a color?",
+        "difficulty": "easy",
+        "answers": [
+            { "answerText": "Value", "isCorrect": true },
+            { "answerText": "Shape", "isCorrect": false },
+            { "answerText": "Form", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Art & Design",
+        "questionText": "What is the technique of using tiny dots to create shading called?",
+        "difficulty": "medium",
+        "answers": [
+            { "answerText": "Stippling", "isCorrect": true },
+            { "answerText": "Smudging", "isCorrect": false },
+            { "answerText": "Scratching", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Art & Design",
+        "questionText": "Which architect designed the Guggenheim Museum in New York?",
+        "difficulty": "medium",
+        "answers": [
+            { "answerText": "Frank Lloyd Wright", "isCorrect": true },
+            { "answerText": "Zaha Hadid", "isCorrect": false },
+            { "answerText": "Frank Gehry", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Art & Design",
+        "questionText": "Which software is primarily used for vector graphics design?",
+        "difficulty": "medium",
+        "answers": [
+            { "answerText": "Adobe Illustrator", "isCorrect": true },
+            { "answerText": "Adobe Photoshop", "isCorrect": false },
+            { "answerText": "InDesign", "isCorrect": false },
+            { "answerText": "Corel Painter", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Art & Design",
+        "questionText": "Which principle of design deals with creating visual interest?",
+        "difficulty": "medium",
+        "answers": [
+            { "answerText": "Contrast", "isCorrect": true },
+            { "answerText": "Unity", "isCorrect": false },
+            { "answerText": "Proximity", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Art & Design",
+        "questionText": "What is a triadic color scheme?",
+        "difficulty": "medium",
+        "answers": [
+            { "answerText": "Three colors evenly spaced on the color wheel", "isCorrect": true },
+            { "answerText": "Two opposite colors on the wheel", "isCorrect": false },
+            { "answerText": "Monochromatic tints", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Art & Design",
+        "questionText": "Which Dutch artist is famous for optical illusions and impossible architecture?",
+        "difficulty": "hard",
+        "answers": [
+            { "answerText": "M.C. Escher", "isCorrect": true },
+            { "answerText": "Rembrandt", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Art & Design",
+        "questionText": "What is the name of the technique where paint is applied thickly for texture?",
+        "difficulty": "hard",
+        "answers": [
+            { "answerText": "Impasto", "isCorrect": true },
+            { "answerText": "Glazing", "isCorrect": false },
+            { "answerText": "Scumbling", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Art & Design",
+        "questionText": "Which movement is characterized by chaotic brushwork and emotional intensity?",
+        "difficulty": "hard",
+        "answers": [
+            { "answerText": "Abstract Expressionism", "isCorrect": true },
+            { "answerText": "Realism", "isCorrect": false },
+            { "answerText": "Neoclassicism", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Art & Design",
+        "questionText": "What does CMYK stand for in print design?",
+        "difficulty": "hard",
+        "answers": [
+            { "answerText": "Cyan, Magenta, Yellow, Key (Black)", "isCorrect": true },
+            { "answerText": "Color, Magenta, Yellow, Kerosene", "isCorrect": false },
+            { "answerText": "Chrome, Metal, Yellow, Key", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Art & Design",
+        "questionText": "Who painted the ceiling of the Sistine Chapel?",
+        "difficulty": "hard",
+        "answers": [
+            { "answerText": "Michelangelo", "isCorrect": true },
+            { "answerText": "Donatello", "isCorrect": false },
+            { "answerText": "Raphael", "isCorrect": false },
+            { "answerText": "Da Vinci", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Music",
+        "questionText": "Which clef is also known as the G clef?",
+        "difficulty": "easy",
+        "answers": [
+            { "answerText": "Treble clef", "isCorrect": true },
+            { "answerText": "Bass clef", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Music",
+        "questionText": "Which instrument has black and white keys?",
+        "difficulty": "easy",
+        "answers": [
+            { "answerText": "Piano", "isCorrect": true },
+            { "answerText": "Violin", "isCorrect": false },
+            { "answerText": "Flute", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Music",
+        "questionText": "What is the term for a group of singers?",
+        "difficulty": "easy",
+        "answers": [
+            { "answerText": "Choir", "isCorrect": true },
+            { "answerText": "Orchestra", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Music",
+        "questionText": "Which symbol indicates silence in music?",
+        "difficulty": "easy",
+        "answers": [
+            { "answerText": "Rest", "isCorrect": true },
+            { "answerText": "Note", "isCorrect": false },
+            { "answerText": "Sharp", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Music",
+        "questionText": "Which instrument belongs to the brass family?",
+        "difficulty": "easy",
+        "answers": [
+            { "answerText": "Trumpet", "isCorrect": true },
+            { "answerText": "Clarinet", "isCorrect": false },
+            { "answerText": "Oboe", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Music",
+        "questionText": "Which tempo marking is faster?",
+        "difficulty": "medium",
+        "answers": [
+            { "answerText": "Allegro", "isCorrect": true },
+            { "answerText": "Adagio", "isCorrect": false },
+            { "answerText": "Largo", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Music",
+        "questionText": "How many strings does a standard violin have?",
+        "difficulty": "medium",
+        "answers": [
+            { "answerText": "4", "isCorrect": true },
+            { "answerText": "6", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Music",
+        "questionText": "What is a musical interval of eight notes called?",
+        "difficulty": "medium",
+        "answers": [
+            { "answerText": "Octave", "isCorrect": true },
+            { "answerText": "Fifth", "isCorrect": false },
+            { "answerText": "Chord", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Music",
+        "questionText": "Which composer wrote the 'Moonlight Sonata'?",
+        "difficulty": "medium",
+        "answers": [
+            { "answerText": "Ludwig van Beethoven", "isCorrect": true },
+            { "answerText": "Johann Sebastian Bach", "isCorrect": false },
+            { "answerText": "Wolfgang Amadeus Mozart", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Music",
+        "questionText": "Which genre is Taylor Swift most associated with today?",
+        "difficulty": "medium",
+        "answers": [
+            { "answerText": "Pop", "isCorrect": true },
+            { "answerText": "Country", "isCorrect": false },
+            { "answerText": "Jazz", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Music",
+        "questionText": "What is the highest male singing voice?",
+        "difficulty": "hard",
+        "answers": [
+            { "answerText": "Tenor", "isCorrect": true },
+            { "answerText": "Bass", "isCorrect": false },
+            { "answerText": "Baritone", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Music",
+        "questionText": "What time signature is also known as 'common time'?",
+        "difficulty": "hard",
+        "answers": [
+            { "answerText": "4/4", "isCorrect": true },
+            { "answerText": "3/4", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Music",
+        "questionText": "Which composer became deaf later in life?",
+        "difficulty": "hard",
+        "answers": [
+            { "answerText": "Beethoven", "isCorrect": true },
+            { "answerText": "Mozart", "isCorrect": false },
+            { "answerText": "Chopin", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Music",
+        "questionText": "What is the term for gradually getting louder?",
+        "difficulty": "hard",
+        "answers": [
+            { "answerText": "Crescendo", "isCorrect": true },
+            { "answerText": "Diminuendo", "isCorrect": false },
+            { "answerText": "Staccato", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Music",
+        "questionText": "Which scale includes all twelve notes in an octave?",
+        "difficulty": "hard",
+        "answers": [
+            { "answerText": "Chromatic scale", "isCorrect": true },
+            { "answerText": "Major scale", "isCorrect": false },
+            { "answerText": "Pentatonic scale", "isCorrect": false },
+            { "answerText": "Minor scale", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Economics",
+        "questionText": "What is the basic problem of economics?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Scarcity", "isCorrect": true },
+        { "answerText": "Inflation", "isCorrect": false },
+        { "answerText": "Recession", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Economics",
+        "questionText": "Which of the following is a factor of production?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Land", "isCorrect": true },
+        { "answerText": "Tax", "isCorrect": false },
+        { "answerText": "Debt", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Economics",
+        "questionText": "What does GDP stand for?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Gross Domestic Product", "isCorrect": true },
+        { "answerText": "Global Debt Policy", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Economics",
+        "questionText": "A market with only one seller is called a?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Monopoly", "isCorrect": true },
+        { "answerText": "Oligopoly", "isCorrect": false },
+        { "answerText": "Duopoly", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Economics",
+        "questionText": "Which term describes a general increase in prices?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Inflation", "isCorrect": true },
+        { "answerText": "Deflation", "isCorrect": false },
+        { "answerText": "Stagnation", "isCorrect": false },
+        { "answerText": "Revaluation", "isCorrect": false }
+        ]
+    },
+
+    {
+        "topicName": "Economics",
+        "questionText": "What does a demand curve typically show?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Relationship between price and quantity demanded", "isCorrect": true },
+        { "answerText": "Relationship between cost and supply", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Economics",
+        "questionText": "Which of the following is an example of fiscal policy?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Changing government spending", "isCorrect": true },
+        { "answerText": "Raising interest rates", "isCorrect": false },
+        { "answerText": "Printing more money", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Economics",
+        "questionText": "Who is considered the father of modern economics?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Adam Smith", "isCorrect": true },
+        { "answerText": "Karl Marx", "isCorrect": false },
+        { "answerText": "John Maynard Keynes", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Economics",
+        "questionText": "What is an externality?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "A cost or benefit that affects a third party", "isCorrect": true },
+        { "answerText": "A tax on imports", "isCorrect": false },
+        { "answerText": "A company’s external audit", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Economics",
+        "questionText": "What happens in a recession?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Economic activity declines", "isCorrect": true },
+        { "answerText": "Inflation skyrockets", "isCorrect": false },
+        { "answerText": "GDP increases significantly", "isCorrect": false }
+        ]
+    },
+
+    {
+        "topicName": "Economics",
+        "questionText": "What does the Laffer Curve illustrate?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Tax rates and tax revenue relationship", "isCorrect": true },
+        { "answerText": "Unemployment and inflation", "isCorrect": false },
+        { "answerText": "Supply and demand", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Economics",
+        "questionText": "What is the main tool of monetary policy?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Interest rate control", "isCorrect": true },
+        { "answerText": "Tax reforms", "isCorrect": false },
+        { "answerText": "Budget planning", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Economics",
+        "questionText": "What is Gini coefficient used for?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Measuring income inequality", "isCorrect": true },
+        { "answerText": "Calculating GDP growth", "isCorrect": false },
+        { "answerText": "Measuring inflation", "isCorrect": false },
+        { "answerText": "Quantifying unemployment", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Economics",
+        "questionText": "What does 'opportunity cost' refer to?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Value of the next best alternative foregone", "isCorrect": true },
+        { "answerText": "The cost of goods sold", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Economics",
+        "questionText": "Which model describes the circular flow of income?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Households and firms exchanging goods and services", "isCorrect": true },
+        { "answerText": "Government regulating price and supply", "isCorrect": false },
+        { "answerText": "Banks controlling consumer loans", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Philosophy",
+        "questionText": "Who is known as the father of Western philosophy?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Socrates", "isCorrect": true },
+        { "answerText": "Aristotle", "isCorrect": false },
+        { "answerText": "Plato", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Philosophy",
+        "questionText": "Which philosopher wrote 'The Republic'?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Plato", "isCorrect": true },
+        { "answerText": "Socrates", "isCorrect": false },
+        { "answerText": "Descartes", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Philosophy",
+        "questionText": "What does 'Cogito, ergo sum' mean?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "I think, therefore I am", "isCorrect": true },
+        { "answerText": "To be or not to be", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Philosophy",
+        "questionText": "Which ancient Greek philosopher was a student of Plato?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Aristotle", "isCorrect": true },
+        { "answerText": "Socrates", "isCorrect": false },
+        { "answerText": "Epicurus", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Philosophy",
+        "questionText": "Who is the author of 'Thus Spoke Zarathustra'?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Friedrich Nietzsche", "isCorrect": true },
+        { "answerText": "Kant", "isCorrect": false },
+        { "answerText": "Hegel", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Philosophy",
+        "questionText": "What is Immanuel Kant best known for?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "The categorical imperative", "isCorrect": true },
+        { "answerText": "The Allegory of the Cave", "isCorrect": false },
+        { "answerText": "Utilitarianism", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Philosophy",
+        "questionText": "Which philosopher believed in the 'state of nature' and social contracts?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Thomas Hobbes", "isCorrect": true },
+        { "answerText": "Karl Marx", "isCorrect": false },
+        { "answerText": "David Hume", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Philosophy",
+        "questionText": "What does 'existentialism' focus on?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Individual freedom and responsibility", "isCorrect": true },
+        { "answerText": "Absolute truth", "isCorrect": false },
+        { "answerText": "Religious obedience", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Philosophy",
+        "questionText": "Who wrote 'Being and Time'?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Martin Heidegger", "isCorrect": true },
+        { "answerText": "Jean-Paul Sartre", "isCorrect": false },
+        { "answerText": "Bertrand Russell", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Philosophy",
+        "questionText": "Which term refers to the philosophical study of knowledge?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Epistemology", "isCorrect": true },
+        { "answerText": "Ontology", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Philosophy",
+        "questionText": "What paradox arises from asking whether an omnipotent being can create a rock it cannot lift?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "The omnipotence paradox", "isCorrect": true },
+        { "answerText": "Zeno’s paradox", "isCorrect": false },
+        { "answerText": "Ship of Theseus", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Philosophy",
+        "questionText": "What does the 'trolley problem' explore?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Moral decision making", "isCorrect": true },
+        { "answerText": "Quantum mechanics", "isCorrect": false },
+        { "answerText": "Psychological conditioning", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Philosophy",
+        "questionText": "What is solipsism?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "The belief that only one's mind is sure to exist", "isCorrect": true },
+        { "answerText": "The belief in a divine creator", "isCorrect": false },
+        { "answerText": "The denial of free will", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Philosophy",
+        "questionText": "Who is known for the phrase 'God is dead'?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Friedrich Nietzsche", "isCorrect": true },
+        { "answerText": "Immanuel Kant", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Philosophy",
+        "questionText": "Which philosopher is associated with utilitarianism?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Jeremy Bentham", "isCorrect": true },
+        { "answerText": "Søren Kierkegaard", "isCorrect": false },
+        { "answerText": "Rene Descartes", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Space & Astronomy",
+        "questionText": "What planet is known as the Red Planet?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Mars", "isCorrect": true },
+        { "answerText": "Jupiter", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Space & Astronomy",
+        "questionText": "What is the name of Earth's natural satellite?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Moon", "isCorrect": true },
+        { "answerText": "Europa", "isCorrect": false },
+        { "answerText": "Io", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Space & Astronomy",
+        "questionText": "Which planet has the most rings?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Saturn", "isCorrect": true },
+        { "answerText": "Neptune", "isCorrect": false },
+        { "answerText": "Mars", "isCorrect": false },
+        { "answerText": "Venus", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Space & Astronomy",
+        "questionText": "Which star is at the center of our solar system?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Sun", "isCorrect": true },
+        { "answerText": "Polaris", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Space & Astronomy",
+        "questionText": "What do we call a space rock that burns in Earth's atmosphere?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Meteor", "isCorrect": true },
+        { "answerText": "Asteroid", "isCorrect": false },
+        { "answerText": "Comet", "isCorrect": false }
+        ]
+    },
+
+    {
+        "topicName": "Space & Astronomy",
+        "questionText": "Which planet rotates on its side?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Uranus", "isCorrect": true },
+        { "answerText": "Mercury", "isCorrect": false },
+        { "answerText": "Mars", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Space & Astronomy",
+        "questionText": "What is the approximate age of the universe?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "13.8 billion years", "isCorrect": true },
+        { "answerText": "5.4 billion years", "isCorrect": false },
+        { "answerText": "100 billion years", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Space & Astronomy",
+        "questionText": "Which galaxy is Earth located in?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Milky Way", "isCorrect": true },
+        { "answerText": "Andromeda", "isCorrect": false },
+        { "answerText": "Whirlpool Galaxy", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Space & Astronomy",
+        "questionText": "Which spacecraft was first to land on the Moon?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Apollo 11", "isCorrect": true },
+        { "answerText": "Voyager 1", "isCorrect": false },
+        { "answerText": "Sputnik", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Space & Astronomy",
+        "questionText": "What is the name of the largest moon of Saturn?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Titan", "isCorrect": true },
+        { "answerText": "Callisto", "isCorrect": false },
+        { "answerText": "Ganymede", "isCorrect": false }
+        ]
+    },
+
+    {
+        "topicName": "Space & Astronomy",
+        "questionText": "What is a pulsar?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "A rapidly rotating neutron star", "isCorrect": true },
+        { "answerText": "A dying red giant", "isCorrect": false },
+        { "answerText": "A small black hole", "isCorrect": false },
+        { "answerText": "A solar flare", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Space & Astronomy",
+        "questionText": "Which planet has the shortest day in the solar system?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Jupiter", "isCorrect": true },
+        { "answerText": "Mercury", "isCorrect": false },
+        { "answerText": "Venus", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Space & Astronomy",
+        "questionText": "What phenomenon causes the redshift of galaxies?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Expansion of the universe", "isCorrect": true },
+        { "answerText": "Gravitational pull", "isCorrect": false },
+        { "answerText": "Dark energy implosion", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Space & Astronomy",
+        "questionText": "Which telescope discovered thousands of exoplanets?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Kepler Space Telescope", "isCorrect": true },
+        { "answerText": "Hubble Space Telescope", "isCorrect": false },
+        { "answerText": "James Webb Telescope", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Space & Astronomy",
+        "questionText": "What is the Schwarzschild radius?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "The radius at which an object becomes a black hole", "isCorrect": true },
+        { "answerText": "The distance from a planet to its moon", "isCorrect": false },
+        { "answerText": "The edge of the observable universe", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mythology",
+        "questionText": "Who is the king of the Greek gods?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Zeus", "isCorrect": true },
+        { "answerText": "Apollo", "isCorrect": false },
+        { "answerText": "Hades", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mythology",
+        "questionText": "What is Thor's weapon in Norse mythology?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Mjölnir", "isCorrect": true },
+        { "answerText": "Gungnir", "isCorrect": false },
+        { "answerText": "Excalibur", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mythology",
+        "questionText": "Which goddess was born from the sea foam?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Aphrodite", "isCorrect": true },
+        { "answerText": "Athena", "isCorrect": false },
+        { "answerText": "Hera", "isCorrect": false },
+        { "answerText": "Demeter", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mythology",
+        "questionText": "What is the name of the underworld in Greek mythology?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Hades", "isCorrect": true },
+        { "answerText": "Valhalla", "isCorrect": false },
+        { "answerText": "Olympus", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mythology",
+        "questionText": "Who flew too close to the sun with wax wings?",
+        "difficulty": "easy",
+        "answers": [
+        { "answerText": "Icarus", "isCorrect": true },
+        { "answerText": "Daedalus", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mythology",
+        "questionText": "In Egyptian mythology, who is the god of the dead?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Osiris", "isCorrect": true },
+        { "answerText": "Ra", "isCorrect": false },
+        { "answerText": "Anubis", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mythology",
+        "questionText": "What creature is half lion and half eagle?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Griffin", "isCorrect": true },
+        { "answerText": "Sphinx", "isCorrect": false },
+        { "answerText": "Minotaur", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mythology",
+        "questionText": "Which Greek hero killed Medusa?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Perseus", "isCorrect": true },
+        { "answerText": "Hercules", "isCorrect": false },
+        { "answerText": "Achilles", "isCorrect": false },
+        { "answerText": "Theseus", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mythology",
+        "questionText": "In Norse mythology, what is the name of the end of the world?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Ragnarök", "isCorrect": true },
+        { "answerText": "Elysium", "isCorrect": false },
+        { "answerText": "Armageddon", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mythology",
+        "questionText": "What is the Roman name for the Greek god Ares?",
+        "difficulty": "medium",
+        "answers": [
+        { "answerText": "Mars", "isCorrect": true },
+        { "answerText": "Jupiter", "isCorrect": false },
+        { "answerText": "Mercury", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mythology",
+        "questionText": "Which titan held up the sky in Greek mythology?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Atlas", "isCorrect": true },
+        { "answerText": "Cronus", "isCorrect": false },
+        { "answerText": "Prometheus", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mythology",
+        "questionText": "What was the name of Odin’s eight-legged horse?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Sleipnir", "isCorrect": true },
+        { "answerText": "Fenrir", "isCorrect": false },
+        { "answerText": "Yggdrasil", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mythology",
+        "questionText": "Which Greek goddess sprang from Zeus's head?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Athena", "isCorrect": true },
+        { "answerText": "Artemis", "isCorrect": false },
+        { "answerText": "Hestia", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mythology",
+        "questionText": "Which hero sailed the Argo in search of the Golden Fleece?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Jason", "isCorrect": true },
+        { "answerText": "Odysseus", "isCorrect": false },
+        { "answerText": "Theseus", "isCorrect": false }
+        ]
+    },
+    {
+        "topicName": "Mythology",
+        "questionText": "What is the name of the three-headed dog guarding the underworld?",
+        "difficulty": "hard",
+        "answers": [
+        { "answerText": "Cerberus", "isCorrect": true },
+        { "answerText": "Hydra", "isCorrect": false },
+        { "answerText": "Chimera", "isCorrect": false }
+        ]
+    }
+]
