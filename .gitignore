@@ -12,7 +12,6 @@ env/
 .Python
 *.sqlite3
 instance/
-config.py
 
 # Logs and database
 *.log
